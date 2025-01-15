@@ -4,7 +4,7 @@
 
 ### Descrição:
 
-- Este é um geenciador de tarefas HTML, CSS e JavaScript.
+- Este é um gerenciador de tarefas HTML, CSS e JavaScript.
 
 ### Clone o repositório:
 
